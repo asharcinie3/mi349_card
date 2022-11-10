@@ -11,10 +11,11 @@ img {
 
 .card {
     background-color: #f3f3f3;
-    border-radius: 15px;
+    border-radius: 12px;
     margin: 0 auto;
     width: 400px;
     text-align: center;
+    box-shadow: 10px;
 }
 
 .card .avatar {
